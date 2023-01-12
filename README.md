@@ -13,3 +13,5 @@ Once you are ready, please send it to me (ie link to your git repository) before
 ## Repository description
 
 First repository, where I stored all files during my work on this application. Due to problems with GitHub token, new updates were stored as `*.zip` files.
+
+Author: Agata Kaczmarek
